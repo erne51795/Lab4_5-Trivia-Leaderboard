@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Trivia_Leaderboard_Lab4_5</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\erne5\source\repos\trivialeaderboard_Lab4_5.cs" Link="trivialeaderboard_Lab4_5.cs" />
+  </ItemGroup>
+
+</Project>
